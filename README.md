@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Team v2 - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Team v2 component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/team-v2)
+- [Info Page](https://codyhouse.co/ds/components/info/team-v2)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
